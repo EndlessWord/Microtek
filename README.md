@@ -43,7 +43,8 @@ npm run serve
 #assets文件夹
 
   要加的图片放各自页面的img文件夹下
-  子文件夹下的goods不要加图片也不要引用,主要是为了你们好找图片,上线后要删的，要用先看id再用assets>goods下的
+  子文件夹下的goods不要加图片也不要引用,主要是为了你们好找图片,
+  上线后要删的，要用先看id再用assets>goods下的
 
 
 #访问
