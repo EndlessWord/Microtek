@@ -34,7 +34,7 @@ module.exports={
 			entry: 'src/pages/products/main.js',
 			template: 'public/products.html',
 			filename: 'products.html',
-			title: 'About Page'
+			title: 'Products Page'
 		}
 	}
 }
