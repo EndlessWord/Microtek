@@ -13,14 +13,14 @@ npm run serve
 │  ├─api              后台接口  
 │  │
 │  ├─assets           图片资源  
-│  │  │  
-│  │  ├─index  		
-│  │  ├─products  	
-│  │  ├─news  
-│  │  ├─about  	
-│  │  ├─brand  
-│  │  ├─contact  	
-│  │  │  
+│  │  │    
+│  │  ├─index  		  
+│  │  ├─products  	  
+│  │  ├─news    
+│  │  ├─about  	  
+│  │  ├─brand    
+│  │  ├─contact  	  
+│  │  │    
 │  │  ├─carousel      轮播图  
 │  │  ├─common        公共图片  
 │  │  └─goods         商品图片(总)  
