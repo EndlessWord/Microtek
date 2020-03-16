@@ -12,23 +12,18 @@ npm run serve
 ├─public              存放顶级页面
 ├─src
 │  ├─api              后台接口
-│  │
 │  ├─assets           图片资源
-│  │  │
 │  │  ├─index					
 │  │  ├─products			
 │  │  ├─news					
 │  │  ├─about					
 │  │  ├─brand					
 │  │  ├─contact				
-│  │  │
 │  │  ├─carousel      轮播图
 │  │  ├─common        公共图片
 │  │  └─goods         商品图片(总)
-│  │  
 │  ├─components       公共组件
 │  │  ├─elementUI.js  注册要使用的组件
-│  │  │
 │  ├─pages
 │  │  ├─index         首页
 │  │  │  └─views
@@ -42,17 +37,14 @@ npm run serve
 │  │  │  └─views
 │  │  └─news          新闻页面
 │  │   	 └─views
-│  │
 │  ├─store						状态管理
 │  │  └─modules
-│  │
 │  └─utils
 │  │  ├─js
 │  │  │ └─utils.js        工具函数
 │	 │  └─css
 │  │    └─reset.css       重置样式
 │  │    └─animation.css   动画
-│	 │
 │  └─theme            统一风格
 └─static              静态资源
 
