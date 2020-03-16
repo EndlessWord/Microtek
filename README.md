@@ -13,7 +13,7 @@ npm run serve
 │  ├─api              后台接口  
 │  │
 │  ├─assets           图片资源  
-│  │  │
+│  │  │  
 │  │  ├─index					
 │  │  ├─products			
 │  │  ├─news  	
