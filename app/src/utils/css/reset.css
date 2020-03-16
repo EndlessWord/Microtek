@@ -1,0 +1,40 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+html,
+body {
+	height: 100%;
+	font:12px Arial,"微软雅黑";
+}
+
+ul,
+ol,
+li {
+	list-style: none;
+	margin-bottom: 0;
+}
+
+a:link,
+a:visited {
+	text-decoration: none;
+}
+
+input,
+button,
+textarea {
+	border: none;
+	outline: none;
+	-webkit-appearance: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-size: 100%;
+	font-weight: normal;
+}
