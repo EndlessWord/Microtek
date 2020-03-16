@@ -8,8 +8,9 @@ contact		--联系
 
 common		--公共图片（图标）
 goods			--商品
+carousel	--放轮播图的
 
 二级文件夹img放页面单独的图片
 商品图片要添加的需添加两个地方：1.根目录goods 2.子页面goods
 
-上线的时候把子页面下的googs删掉
+上线的时候把子页面下的goods删掉

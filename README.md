@@ -7,6 +7,49 @@ npm i
 #运行
 npm run serve
 
+#项目结构
+
+├─public							存放顶级页面
+├─src
+│  ├─api							后台接口
+│  │
+│  ├─assets						图片资源
+│  │  │
+│  │  ├─index					
+│  │  ├─products			
+│  │  ├─news					
+│  │  ├─about					
+│  │  ├─brand					
+│  │  ├─contact				
+│  │  │
+│  │  ├─carousel			轮播图
+│  │  ├─common				公共图片
+│  │  └─goods					商品图片(总)
+│  │  
+│  ├─components				公共组件
+│  │  ├─elementUI.js	注册要使用的组件
+│  │  │
+│  ├─pages
+│  │  ├─index					首页
+│  │  │  └─views
+│  │  └─products			产品页面
+│  │  │   └─views
+│  │  ├─about					关于页面
+│  │  │  └─views
+│  │  ├─brand					联系我们页面
+│  │  │  └─views
+│  │  ├─contact				品牌页面
+│  │  │  └─views
+│  │  ├─news					新闻页面
+│  │   	 └─views
+│  │
+│  ├─store						状态管理
+│  │  └─modules
+│  │
+│  └─utils						
+│     └─utils.js			工具函数
+│
+└─static							静态资源
 
 #less,axios,fontawesome已配好
 
