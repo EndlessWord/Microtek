@@ -8,11 +8,11 @@ npm i
 npm run serve
 
 #项目结构  
-├─public              存放顶级页面  
+├─public              存放顶级页面   
 ├─src  
-│  ├─api              后台接口  
+│  ├─api              后台接口   
 │  │
-│  ├─assets           图片资源  
+│  ├─assets           图片资源    
 │  │  │    
 │  │  ├─index  		  
 │  │  ├─products  	  
@@ -26,8 +26,8 @@ npm run serve
 │  │  └─goods         商品图片(总)  
 │  │   
 │  ├─components       公共组件  
-│  │  ├─elementUI.js  注册要使用的组件  
-│  │  │  
+│  │  └─elementUI.js  注册要使用的组件  
+│  │  
 │  ├─pages  
 │  │  ├─index         首页  
 │  │  │  └─views  
