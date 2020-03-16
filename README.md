@@ -9,11 +9,11 @@ npm run serve
 
 #项目结构
 
-├─public							存放顶级页面
+├─public              存放顶级页面
 ├─src
-│  ├─api							后台接口
+│  ├─api              后台接口
 │  │
-│  ├─assets						图片资源
+│  ├─assets           图片资源
 │  │  │
 │  │  ├─index					
 │  │  ├─products			
@@ -22,34 +22,39 @@ npm run serve
 │  │  ├─brand					
 │  │  ├─contact				
 │  │  │
-│  │  ├─carousel			轮播图
-│  │  ├─common				公共图片
-│  │  └─goods					商品图片(总)
+│  │  ├─carousel      轮播图
+│  │  ├─common        公共图片
+│  │  └─goods         商品图片(总)
 │  │  
-│  ├─components				公共组件
-│  │  ├─elementUI.js	注册要使用的组件
+│  ├─components       公共组件
+│  │  ├─elementUI.js  注册要使用的组件
 │  │  │
 │  ├─pages
-│  │  ├─index					首页
+│  │  ├─index         首页
 │  │  │  └─views
-│  │  └─products			产品页面
+│  │  ├─products      产品页面
 │  │  │   └─views
-│  │  ├─about					关于页面
+│  │  ├─about         关于页面
 │  │  │  └─views
-│  │  ├─brand					联系我们页面
+│  │  ├─brand         联系我们页面
 │  │  │  └─views
-│  │  ├─contact				品牌页面
+│  │  ├─contact       品牌页面
 │  │  │  └─views
-│  │  ├─news					新闻页面
+│  │  └─news          新闻页面
 │  │   	 └─views
 │  │
 │  ├─store						状态管理
 │  │  └─modules
 │  │
-│  └─utils						
-│     └─utils.js			工具函数
-│
-└─static							静态资源
+│  └─utils
+│  │  ├─js
+│  │  │ └─utils.js        工具函数
+│	 │  └─css
+│  │    └─reset.css       重置样式
+│  │    └─animation.css   动画
+│	 │
+│  └─theme            统一风格
+└─static              静态资源
 
 #less,axios,fontawesome已配好
 
@@ -89,6 +94,7 @@ npm run serve
   子文件夹下的goods不要加图片也不要引用,主要是为了你们好找图片,
   上线后要删的，要用先看id再用assets>goods下的
 
+#哈木原网址(http://www.hamuoo.com/)
 
 #访问
 http://localhost:8080/
