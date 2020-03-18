@@ -1,7 +1,6 @@
 <template>
   <div class="hello">
 		<el-button>sssss</el-button>
-		<font-awesome-icon icon="user-secret" />
   </div>
 </template>
 
